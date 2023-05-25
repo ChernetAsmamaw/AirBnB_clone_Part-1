@@ -2,7 +2,6 @@
 
 The console is the first part of the **AirBnB clone** project which aims to deploy a simple copy of the AirBnB website to cover all fundamental concepts of the Holberton School higher level programming track.
 
-
 ## Overview
 
 This first part of the project focuses on creating a command interpreter that allows to:
@@ -14,7 +13,7 @@ This first part of the project focuses on creating a command interpreter that al
 ## Files and Directories
 
 **`/models`** directory constains all classes used for the project.  
-[basemodel.py] file contains the base class (**BaseModel**) of all models in the project:
+[basemodel.py](https://github.com/ChernetAsmamaw/AirBnB_clone/blob/main/models/base_model.py) file contains the base class (**BaseModel**) of all models in the project:
 
 - [user.py](https://github.com/ChernetAsmamaw/AirBnB_clone/blob/main/models/user.py) - file contains the `User` class.
 - [state.py](https://github.com/ChernetAsmamaw/AirBnB_clone/blob/main/models/state.py) - file contains the `State` class.
