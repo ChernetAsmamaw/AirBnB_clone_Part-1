@@ -14,7 +14,7 @@ This first part of the project focuses on creating a command interpreter that al
 ## Files and Directories
 
 **`/models`** directory constains all classes used for the project.  
-[basemodel.py](https://github.com/ChernetAsmamaw/AirBnB_clone/blob/main/models/base_model.py) file contains the base class (**BaseModel**) of all models in the project:
+[basemodel.py] file contains the base class (**BaseModel**) of all models in the project:
 
 - [user.py](https://github.com/ChernetAsmamaw/AirBnB_clone/blob/main/models/user.py) - file contains the `User` class.
 - [state.py](https://github.com/ChernetAsmamaw/AirBnB_clone/blob/main/models/state.py) - file contains the `State` class.
