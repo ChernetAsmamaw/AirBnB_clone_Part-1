@@ -2,16 +2,6 @@
 
 The console is the first part of the **AirBnB clone** project which aims to deploy a simple copy of the AirBnB website to cover all fundamental concepts of the Holberton School higher level programming track.
 
-<br>
-
-<div align=center>  
-    <img  
-    style="text-align:center"  
-    src="https://raw.githubusercontent.com/ChernetAsmamaw/hbtn_config/main/assets/hbnb.png"  
-    alt="holbertonbnb"/>  
-</div>
-
-<br>
 
 ## Overview
 
